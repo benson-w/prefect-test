@@ -16,3 +16,4 @@ flow.storage = GitHub(
     path="/flows/flow.py"
 )
 
+flow.register(project_name="syncs")
